@@ -10,7 +10,7 @@ export default function StudentInfo()
                 Mehakdeep Kaur
             </h2> 
             <p>
-                <Link href="\">My Github repository</Link>
+                <Link href="https://github.com/mehakdeep-01/cprg306-assignments">My Github repository</Link>
             </p>
         </div>
     );
